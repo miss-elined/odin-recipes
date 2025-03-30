@@ -5,6 +5,12 @@
 
 h1 {
   font-size: 50px;
+  color: rgb(180, 93, 0);
+}
+
+h2 {
+  font-size: 25px;
+  color: rgb(100, 52, 0);
 }
 
 p,
@@ -20,6 +26,10 @@ a:link {
 
 a:visited {
   color: rgb(130, 130, 130);
+}
+
+a:hover {
+  color: rgb(150, 150, 150);
 }
 
 .ingredients {
