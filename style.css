@@ -1,0 +1,27 @@
+* {
+  font-family: Garamond, serif;
+  background-color: rgb(240, 240, 240);
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p,
+li,
+a {
+  font-size: 20px;
+  color: rgb(70, 70, 70);
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: rgb(130, 130, 130);
+}
+
+.ingredients {
+  font-weight: bold;
+}
