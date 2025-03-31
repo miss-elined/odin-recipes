@@ -51,6 +51,7 @@ a:hover {
 }
 
 .home-nav {
-  margin-bottom: 30px;
-  /* Not working */
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 50px;
 }
